@@ -1,3 +1,4 @@
+#셀레니움을 이용한 데이터 수집
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
